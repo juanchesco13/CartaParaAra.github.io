@@ -7,7 +7,7 @@ body{
 
 .carta{
     font-style: italic;
-    font-size: 3cap;
+    font-size: 30px;
     background-color: rgba(173, 65, 206, 0.541);
     padding: 1vw 3vw;
     margin: 1vw 2vw;
@@ -25,10 +25,4 @@ body{
 
 .final{
     font-size: 30px;
-}
-
-@media (min-width: 768px) {
-    .carta{
-        font-size: 30px;
-    }
 }
