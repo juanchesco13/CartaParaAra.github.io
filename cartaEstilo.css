@@ -1,0 +1,21 @@
+.carta{
+    font-style: italic;
+    font-size: large;
+    background-color: rgba(173, 65, 206, 0.651);
+    padding: 10px 30px;
+    margin: 10px 40px;
+    border-radius: 30px;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.Resalto{
+    font-size: 60px;
+    color: rgb(183, 0, 255);
+}
+
+.final{
+    font-size: 30px;
+}
