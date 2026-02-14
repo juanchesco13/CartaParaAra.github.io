@@ -1,14 +1,21 @@
+body{
+    min-height: 100vh;
+    background-image: url(Ete\ sech.webp);
+    background-size: cover;
+    background-position: center;
+}
+
 .carta{
     font-style: italic;
-    font-size: large;
-    background-color: rgba(173, 65, 206, 0.651);
-    padding: 10px 30px;
-    margin: 10px 40px;
+    font-size: 1.7vw;
+    background-color: rgba(173, 65, 206, 0.541);
+    padding: 1vw 3vw;
+    margin: 1vw 2vw;
     border-radius: 30px;
 }
 
 .titulo{
-    font-size: 30px;
+    font-size: 3.5vw;
 }
 
 .Resalto{
@@ -19,3 +26,5 @@
 .final{
     font-size: 30px;
 }
+
+@media {min-width: 767px;}
